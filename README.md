@@ -51,3 +51,4 @@ Aqui estão alguns problemas conhecidos na aplicação e itens a serem abordados
 - [ ] Criar testes unitários para a aplicação
 - [ ] Melhorar experiencia de carregamendo do poster do filme na rota `/movie/:id`
 - [ ] Mudar título da rota `/movie:id` para ficar de acordo com o nome do filme
+- [ ] Separar configurações de rotas `main.ts`
